@@ -1,41 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kaylene Stocking
 
 # Username (this should match the folder name)
 authors:
-- admin
+- kaylene
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UC Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical Engineering and Computer Science
+    institution: UC Berkeley
+    year: Expected 2024
+  - course: BSE in Computer Engineering and Bioengineering
+    institution: University of Pittsburgh
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:kaylene@berkeley.edu'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+  # icon_pack: fab
+  # link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=nkXU7rIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/violasox
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kstocking/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in the [Hybrid Systems Lab](http://hybrid.eecs.berkeley.edu/) at UC Berkeley under the advisorship of Professor Claire Tomlin. My current research focuses on modeling human movement and behavior for applications such as rehabiliation and autonomous driving systems. I am broadly interested in how we can design human-technology interfaces that are safe and beneficial on the scale of both individuals and society. I'm especially passionate about ideas that span areas of research that are usually disparate, reflecting my intense general curiosity about how things work (and how we might be able to make them work better).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of research, I love reading, being outdoors, and immersing myself in a good video game once in a while.
