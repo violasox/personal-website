@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
 # - Artificial Intelligence
@@ -70,6 +70,7 @@ user_groups:
 - Visitors
 ---
 
+\
 I am a PhD student in the [Hybrid Systems Lab](http://hybrid.eecs.berkeley.edu/) at UC Berkeley under the advisorship of Professor Claire Tomlin. My current research focuses on modeling human movement and behavior for applications such as rehabiliation and autonomous driving systems. I am broadly interested in how we can design human-technology interfaces that are safe and beneficial on the scale of both individuals and society. I'm especially passionate about ideas that span areas of research that are usually disparate, reflecting my intense general curiosity about how things work (and how we might be able to make them work better).
 
-Outside of research, I love reading, being outdoors, and immersing myself in a good video game once in a while.
+Outside of research, I love reading, [being outdoors](misc/outdoors), and [learning languages](misc/languages), among way too many other miscellaneous hobbies.

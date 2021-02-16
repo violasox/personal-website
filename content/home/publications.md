@@ -8,10 +8,10 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "[Search and filter publications](publication/#)"
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
+  # Page type to display: the widget looks for content to display in content/page_type
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
@@ -38,6 +38,9 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
+  
+[design.spacing]
+  padding = ["40px", "0", "40px", "0"]
   
 [design.background]
   # Apply a background color, gradient, or image.
