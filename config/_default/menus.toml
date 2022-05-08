@@ -39,3 +39,8 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+[[main]]
+  name = "Blog"
+  url = "https://robotsliketea.com"
+  weight = 80

@@ -71,6 +71,6 @@ user_groups:
 ---
 
 \
-I am a PhD student in the [Hybrid Systems Lab](http://hybrid.eecs.berkeley.edu/) at UC Berkeley under the advisorship of Professor Claire Tomlin. My current research focuses on modeling human movement and behavior for applications such as rehabiliation and autonomous driving systems. I am broadly interested in how we can design human-technology interfaces that are safe and beneficial on the scale of both individuals and society. I'm especially passionate about ideas that span areas of research that are usually disparate, reflecting my intense general curiosity about how things work (and how we might be able to make them work better).
+I am a PhD student in the [Hybrid Systems Lab](http://hybrid.eecs.berkeley.edu/) at UC Berkeley under the advisorship of Professor Claire Tomlin. My recent research has focused on modeling human behavior, but I am becoming increasingly interested in the intersection between cognitive science and robotics. In addition, I'm broadly interested in how we can design human-technology interfaces that are safe and beneficial on the scale of both individuals and society. I'm especially passionate about ideas that span areas of research that are usually disparate, reflecting my intense general curiosity about how things work (and how we might be able to make them work better).
 
 Outside of research, I love reading, [being outdoors](misc/outdoors), and [learning languages](misc/languages), among way too many other miscellaneous hobbies.
